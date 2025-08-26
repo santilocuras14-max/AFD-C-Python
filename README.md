@@ -58,12 +58,6 @@ cd c
 make           # compila a ./afd
 ./afd ../Conf.txt ../Cadenas.txt
 ```
-Si no tienes `make`, puedes compilar así:
-```bash
-gcc -std=c11 -O2 -o afd main.c
-./afd ../Conf.txt ../Cadenas.txt
-```
-
 ## Pruebas rápidas
 Con los archivos de ejemplo del repo:
 ```bash
