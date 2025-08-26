@@ -1,4 +1,4 @@
-# AFD (DFA) — C & Python
+# AFD — C & Python
 
 Repositorio de referencia para **Diseño e Implementación de un AFD** que lee dos archivos:
 - `Conf.txt` → configuración del autómata
