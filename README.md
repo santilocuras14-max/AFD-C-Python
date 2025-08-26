@@ -77,6 +77,3 @@ cd ../c && make && ./afd ../Conf.txt ../Cadenas.txt
 ## Notas
 - Ambos programas validan símbolos desconocidos y transiciones faltantes.
 - Si una transición no existe, la cadena es **NO ACEPTA**.
-- El parser del alfabeto acepta `Σ`, `Sigma`, `S` o `Sig` en la línea del alfabeto para facilitar.
-
-¡Éxitos! 💪
